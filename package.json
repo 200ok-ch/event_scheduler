@@ -1,0 +1,12 @@
+{
+  "name": "event_scheduler",
+  "version": "1.0.0",
+  "author": "200ok llc",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
